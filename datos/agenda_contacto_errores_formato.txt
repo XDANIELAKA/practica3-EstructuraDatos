@@ -1,0 +1,7 @@
+# Lineas con problemas intencionados
+|600111222|correo@gmail.com|uni
+Ana Perez 600111222 ana@gmail.com uni
+Pedro||pedro@gmail.com|amigos
+Maria Gomez|600111222,|maria@gmail.com|familia
+# Esta linea esta bien y sirve para comprobar que el programa sigue
+Luis Ortega|700123456|luis@correo.com|trabajo

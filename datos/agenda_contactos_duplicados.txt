@@ -1,0 +1,4 @@
+Ana Perez|600111222|ana.perez@gmail.com|uni
+Ana Perez|600999000|ana2@gmail.com|amigos
+Carlos Ruiz||carlos@outlook.com|trabajo
+Carlos Ruiz|611111111||gym

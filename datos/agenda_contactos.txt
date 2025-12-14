@@ -1,0 +1,7 @@
+# Agenda de contactos - formato nombre|telefonos|correos|etiquetas
+Ana Perez|600111222,600333444|ana.perez@gmail.com|uni,amigos
+Carlos Ruiz||carlos.ruiz@outlook.com|trabajo
+Lucia Martinez|722000111||familia
+David Lopez|611222333|dlopez@gmail.com|gym,amigos
+Sara Moreno|699888777,655444111|sara.moreno@gmail.com,s.moreno@uni.es|uni
+Marta Gil|666777888||trabajo,proyectos

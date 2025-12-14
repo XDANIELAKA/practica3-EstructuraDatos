@@ -1,0 +1,17 @@
+# Ejecutable
+programa
+
+# Carpeta de compilación
+build/
+
+# Archivos temporales
+*.o
+*.out
+*.log
+
+# Doxygen generado
+doc/html/
+
+# Archivos de sistema
+*~
+.DS_Store

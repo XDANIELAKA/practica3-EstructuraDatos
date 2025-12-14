@@ -1,0 +1,13 @@
+# Fichero de prueba centrado en etiquetas repetidas
+# Ideal para comprobar filtrado eficiente con multimap
+
+Ana Perez|600111222|ana@gmail.com|uni,amigos
+Carlos Ruiz|611222333|carlos@empresa.com|trabajo,proyectos
+Lucia Martinez|722000111|lucia@correo.com|familia,amigos
+David Lopez|699888777|david@correo.com|gym,amigos
+Sara Moreno|655444111|sara@uni.es|uni,proyectos
+Marta Gil|666777888|marta@empresa.com|trabajo
+Pedro Sanchez|677999000||amigos
+Elena Torres|688123456|elena@gmail.com|familia
+Javier Romero|699000111|javier@correo.com|gym
+Paula Nieto|612345678|paula@uni.es|uni

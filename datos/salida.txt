@@ -1,0 +1,6 @@
+Ana Perez|600111222,600333444|ana.perez@gmail.com|amigos,uni
+Carlos Ruiz||carlos.ruiz@outlook.com|trabajo
+David Lopez|611222333|dlopez@gmail.com|amigos,gym
+Lucia Martinez|722000111||familia
+Marta Gil|666777888||proyectos,trabajo
+Sara Moreno|655444111,699888777|s.moreno@uni.es,sara.moreno@gmail.com|uni
