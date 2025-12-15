@@ -9,29 +9,27 @@ TDA AgendaContactos → gestiona un conjunto de contactos indexados por nombre y
 
 El programa permite cargar contactos desde un fichero, añadir y eliminar contactos, consultar por nombre, listar en orden, filtrar por etiqueta y guardar cambios mediante un menú interactivo.
 
----
-
-# 1. Estructura del proyecto
-
+# 1. Estructura del Proyecto
+```
+.
 ├── include/
-│ ├── contacto.h
-│ └── agendacontactos.h
+│   ├── contacto.h
+│   └── agendacontactos.h
 ├── src/
-│ ├── contacto.cpp
-│ ├── agendacontactos.cpp
-│ └── main.cpp
+│   ├── contacto.cpp
+│   ├── agendacontactos.cpp
+│   └── main.cpp
 ├── datos/
-│ ├── agenda_contactos.txt
-│ ├── agenda_contactos_duplicados.txt
-│ ├── agenda_contactos_etiquetas.txt
-│ └── agenda_contactos_errores_formato.txt
+│   ├── agenda_contactos.txt
+│   ├── agenda_contactos_duplicados.txt
+│   ├── agenda_contactos_etiquetas.txt
+│   └── agenda_contactos_errores_formato.txt
 ├── build/
 ├── doc/
-│ └── Doxyfile
+│   └── Doxyfile
 ├── Makefile
 └── README.md
-
----
+```
 
 # 2. Compilación y ejecución
 
